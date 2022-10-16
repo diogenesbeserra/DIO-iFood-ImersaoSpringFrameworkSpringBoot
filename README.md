@@ -12,3 +12,7 @@
 - A dependencia entre as classes foi feita através de anotações. A classe Main é @SpringBootApplication e as demais São @Component
 
 - A classe MyApp manipula os objetos com a anotação @AutoWired  
+
+
+![com IOC](https://user-images.githubusercontent.com/93940659/196012057-b24cf187-5910-48ad-af61-7c7984341efd.png)
+
