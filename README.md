@@ -1,5 +1,10 @@
 # Curso DIO - Imersão no Spring Framework com Spring Boot  
 >> By Gleyson Sampaio 
+
+## Aula: Beans vs Components [ ]
+
+-Start
+
 ## Aula: Primeiros passos com Springboot [v] 
 
 - Criação do projeto com spring initializer
