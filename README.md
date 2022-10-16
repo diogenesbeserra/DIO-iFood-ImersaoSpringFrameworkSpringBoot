@@ -2,7 +2,7 @@
 >> By Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
-## Aula: Beans vs Components [ ]
+## Aula: Beans vs Components [x]
 
 Os components e os beans são para criar objetos gerenciados pelo conteiner
 
