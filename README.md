@@ -1,5 +1,5 @@
 # Curso DIO - Imersão no Spring Framework com Spring Boot  
->> By Gleyson Sampaio 
+>> Mentor Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
 ## Aula: Singleton ou prototype []
