@@ -2,9 +2,11 @@
 >> Mentor Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
-## Aula: Properties Value [x]
+## Aulas: Properties Value e Configuration Properties[x]
 
 resource Application.properties: recurso do framework para centralizar a declaracção de valores das propriedades da aplicação.
+
+Duas aulas no mesmo código
 
 
 _______________________________________________________________________________________________________________________________________________________________________
