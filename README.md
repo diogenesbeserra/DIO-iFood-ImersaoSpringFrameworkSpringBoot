@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 resource Application.properties: recurso do framework para centralizar a declaracção de valores das propriedades da aplicação.
 
-Duas aulas no mesmo código
+Duas aulas no mesmo código 
 
 
 _______________________________________________________________________________________________________________________________________________________________________
