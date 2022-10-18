@@ -32,7 +32,7 @@ public class PrimeirosPassosApplication {
 
     /* Codigo referente aula SINGLETON VS PROTOTYPE*/
 
-   /* @Bean
+/*    @Bean
     public CommandLineRunner run(SistemaMensagem sistema) throws Exception {
         return args -> {
             sistema.enviarConfirmacaoCadastro();

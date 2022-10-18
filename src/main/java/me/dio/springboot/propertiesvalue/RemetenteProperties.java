@@ -1,12 +1,16 @@
 package me.dio.springboot.singletonxprototype;
 
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.Configuration;
+
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
-public class Remetente {
+@Configuration
+@ConfigurationProperties(prefix = "remetente")
+public class RemetenteProperties {
     private String nome;
     private String email;
     private List<Long> telefones ;
