@@ -13,10 +13,10 @@ public class PrimeirosPassosApplication {
 
     /* Aula primeiros passos, esse metodo SpringApplication.run chama o metodo run da classe MyApp
     que é um CommandLineRunner*/
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         SpringApplication.run(PrimeirosPassosApplication.class, args);
     }
-
+    */
 	/* Aula beans versus components, este bean faz a mesma função do metodo run da classe MyApp porém não precisa
 	ser implementado em uma classe. Ou seja, estamos implementado um metodo da interface CommandLineRunner sem
 	que uma classe implemente essa interface. o bean não tem o código da classe explicito.
@@ -31,12 +31,19 @@ public class PrimeirosPassosApplication {
 	}*/
 
     /* Codigo referente aula SINGLETON VS PROTOTYPE*/
-    @Bean
+
+   /* @Bean
     public CommandLineRunner run(SistemaMensagem sistema) throws Exception {
         return args -> {
             sistema.enviarConfirmacaoCadastro();
             sistema.enviarMensagemBoasVindas();
             sistema.enviarConfirmacaoCadastro();
         };
+    }*/
+
+    /* Aula Properties Value*/
+
+    public static void main(String[] args) {
+        SpringApplication.run(PrimeirosPassosApplication.class, args);
     }
 }
