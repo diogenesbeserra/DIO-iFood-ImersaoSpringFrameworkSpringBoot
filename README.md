@@ -7,6 +7,10 @@ ________________________________________________________________________________
 - Singleton: uma instancia da classe é criada para toda execução da aplicação. Esse único objeto ficará disponível para todas chamadas
 - Prototype: é criado um objeto para cada chamada
 
+Neste exemplo primeiro criamos um Bean de remetente como singleton. Neste caso quando foi alterado o email de um remetente mudou o email de todos os remetentes pois na verdade era apenas um objeto instanciado e as chamadas estavam apontando para o mesmo endereço de memória.
+
+Em seguida marcamos o bean de remetente com a anotação @Scope("prototype") e dessa forma a cada chamada ao remetente o framework criou uma instancia separada e assim conseguimos alterar o email de cada remetente sem afetar os demais
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 ## Aula: Beans vs Components [x]
