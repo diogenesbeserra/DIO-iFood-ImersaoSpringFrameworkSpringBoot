@@ -3,8 +3,8 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 ## Aula: Singleton ou prototype []
-- start
-
+- Singleton: uma instancia da classe é criada para toda execução da aplicação. Esse único objeto ficará disponível para todas chamadas
+- Prototype: é criado um objeto para cada chamada 
 
 _______________________________________________________________________________________________________________________________________________________________________
 ## Aula: Beans vs Components [x]
