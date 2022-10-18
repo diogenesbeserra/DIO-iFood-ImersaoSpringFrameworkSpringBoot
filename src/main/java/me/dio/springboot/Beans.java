@@ -1,4 +1,3 @@
-package me.dio.springboot.app;
 package me.dio.springboot;
 
 import com.google.gson.Gson;
