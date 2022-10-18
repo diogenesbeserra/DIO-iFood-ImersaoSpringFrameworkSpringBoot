@@ -1,4 +1,4 @@
-package me.dio.springboot.app;
+package me.dio.springboot.beansxcomponents;
 
 public class ViaCepResponse {
     private String cep;
