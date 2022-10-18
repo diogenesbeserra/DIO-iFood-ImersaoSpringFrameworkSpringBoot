@@ -2,7 +2,7 @@
 >> Mentor Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
-## Aula: Properties Value []
+## Aula: Properties Value [x]
 
 resource Application.properties: recurso do framework para centralizar a declaracção de valores das propriedades da aplicação.
 
