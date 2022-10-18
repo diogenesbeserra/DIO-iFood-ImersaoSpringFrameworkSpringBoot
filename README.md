@@ -2,7 +2,13 @@
 >> Mentor Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
-## Aula: Singleton ou prototype []
+## Aula: Properties Value []
+
+resource Application.properties: recurso do framework para centralizar a declaracção de valores das propriedades da aplicação.
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+## Aula: Singleton ou prototype [x]
 
 - Singleton: uma instancia da classe é criada para toda execução da aplicação. Esse único objeto ficará disponível para todas chamadas
 - Prototype: é criado um objeto para cada chamada
