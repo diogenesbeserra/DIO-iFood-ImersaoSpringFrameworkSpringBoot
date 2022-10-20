@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ## Aula: ORM e JPA [x]
 
 - ORM: Mapeamento de objeto relacional. Mapeamento de um objeto para uma tabela
-- JPA: especificação que realiza operações de persistencia de objetos através de um framework (Ex. Hibernate) 
+- JPA: Java Persistence API - especificação que realiza operações de persistencia de objetos através de um framework (Ex. Hibernate) 
 
 
 
