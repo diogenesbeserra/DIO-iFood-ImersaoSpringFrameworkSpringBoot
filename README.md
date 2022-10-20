@@ -2,6 +2,14 @@
 >> Mentor Gleyson Sampaio 
 
 _______________________________________________________________________________________________________________________________________________________________________
+## Aula: ORM e JPA [x]
+
+- ORM: Mapeamento de objeto relacional. Mapeamento de um objeto para uma tabela
+- JPA: especificação que realiza operações de persistencia de objetos através de um framework (Ex. Hibernate) 
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
 ## Aulas: Properties Value e Configuration Properties[x]
 
 resource Application.properties: recurso do framework para centralizar a declaracção de valores das propriedades da aplicação.
